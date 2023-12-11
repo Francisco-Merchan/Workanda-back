@@ -37,13 +37,14 @@ CREATE TABLE users (
 
 ######  Configurar Variables de entorno
 >Crear un archivo .env y escribir las siguientes variables de entorno
-`PORT=4000
-DB_HOST=localhost
-DB_PORT=3306
-DB_USER=root
-DB_PASSWORD=
-DB_NAME=workandadb
-JWT_SECRET_WORD=workanda`
+
+    PORT=4000
+    DB_HOST=localhost
+    DB_PORT=3306
+    DB_USER=root
+    DB_PASSWORD=
+    DB_NAME=workandadb
+    JWT_SECRET_WORD=workanda
 
 ###### Levantar el proyecto
 >Ejecutar el comando 
