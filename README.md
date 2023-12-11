@@ -18,7 +18,7 @@ Para funcionar se debe descargar el repositorio cliente desde el siguiente link
 `npm install`
 
 ###### Crear base de datos
->El proyecto utiliza una base de datos MySQL, crear una base de datos en case de poseer un cliente de MySQL .
+>El proyecto utiliza una base de datos MySQL, crear una base de datos en case de poseer un cliente de MySQL
 En caso contrario puede descargar MySQL desde el siguiente link
 [MySQL](https://dev.mysql.com/downloads/mysql/ "MySQL")
 una vez descargardo, accede a MySQL con el siguiente comando
